@@ -1,0 +1,18 @@
+
+<resources>
+    <string name="app_name">Quiz app</string>
+
+        <string-array name="questions">
+            <item>Mi nombre es xavi?</item>
+            <item>El bitcoin es una estafa?</item>
+            <item>Windows es el mejor sistema operativo?</item>
+        </string-array>
+
+    <string-array name="answers">
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+
+
+</resources>
